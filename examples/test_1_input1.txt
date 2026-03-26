@@ -1,0 +1,6 @@
+# to agent: entry
+
+product: test_1
+jira: ex-001
+
+task: create hello world python module in project folder which can be executed from console
